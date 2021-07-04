@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Css" width="40" height="40" style="max-width:100%;"></img>
 
-![Snake animation](https://github.com/Elrate/Elrate/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/elrate/elrate/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Elrate/Elrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
