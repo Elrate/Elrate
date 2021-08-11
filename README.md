@@ -2,8 +2,7 @@
 ***
 ### Welcome to my GitHub Profile :computer:
 - :books: I like to study new techs and opportunities
-- :busts_in_silhouette: Take a look at my [Linkedin Profile](https://www.linkedin.com/in/gabriel-cavalcante-a6a90920a/) and [Instagram Profile](https://www.instagram.com/gabriel.cavalcante04/)
-***
+- :busts_in_silhouette: Take a look at my [Linkedin Profile](https://www.linkedin.com/in/gabriel-cavalcante-a6a90920a/)
 
 ### Things I work with :open_file_folder:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
